@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F7F7F7FF&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
 
-<h1 align="center">Olá, sou o edu <img loading="lazy" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/>
+<h1 align="center">Olá, sou o Fernando <img loading="lazy" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40"/>
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
 <br />
