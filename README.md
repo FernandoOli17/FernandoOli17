@@ -11,12 +11,6 @@
   <a href="https://www.linkedin.com/in/andrew-novac">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mail.novac.dev/">
-    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail">
-  </a>
-  <a href="https://github.com/FernandoOli17">
-    <img src="https://komarev.com/ghpvc/?username=FernandoOli17&label=Profile%20Views&color=blue&style=for-the-badge" >
-  </a>
   <a href="https://www.instagram.com/nandim.17">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
