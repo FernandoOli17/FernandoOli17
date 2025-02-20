@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F7F7F7FF&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
+
 <div align="center">
 
   <!-- Spotify -->
@@ -5,6 +7,11 @@
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
   </a>
 
+  <br><br>
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edhlz&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edhlz&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
   <br><br>
 
   <!-- Redes Sociais -->
@@ -29,3 +36,4 @@
   </p>
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F7F7F7FF&section=footer&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
