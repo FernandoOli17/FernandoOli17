@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F7F7F7FF&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8000FF&section=header&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
+
 
 <div align="center">
 
@@ -36,4 +37,5 @@
   </p>
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F7F7F7FF&section=footer&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8000FF&section=footer&reversal=false&textBg=false&descAlign=50&descAlignY=50"/>
+
