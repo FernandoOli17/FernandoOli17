@@ -49,7 +49,7 @@ Desenvolvedor Backend com experiência em desenvolvimento web e mobile. Especial
   <a href="mailto:fernandodeoliveirarena@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  <a href="https://linkedin.com/in/FernandoOli17" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-oliveira-rena-1b4060304/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
