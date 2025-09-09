@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">## Sobre mim<br>- ✨ Criando bots e web scrapers com **Python/Selenium**.<br>- 📚 Atualmente estudando **TypeScript**, **Next.js** e **Flutter**.<br>- 🎯 Metas: entregar automações úteis e interfaces limpas.<br>- 🎮 Curiosidade: zerei *The Witcher 3* três vezes.</p>
+<p align="left">## Sobre mim<br>- ✨ Criando bots e web scrapers com Python/Selenium.<br>- 📚 Atualmente estudando TypeScript, Next.js e Flutter.<br>- 🎯 Metas: entregar automações úteis e interfaces limpas.<br>- 🎮 Curiosidade: zerei *The Witcher 3* três vezes.</p>
 
 ###
 
