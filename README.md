@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sobre mim<br>- ✨ Criando bots e web scrapers com Python/Selenium.<br>- 📚 Atualmente estudando TypeScript, Next.js e Flutter.<br>- 🎯 Metas: entregar automações úteis e interfaces limpas.</p>
+<p align="left"><br>- ✨ Criando bots e web scrapers com Python/Selenium.<br>- 📚 Atualmente estudando TypeScript, Next.js e Flutter.<br>- 🎯 Metas: entregar automações úteis e interfaces limpas.</p>
 
 ###
 
