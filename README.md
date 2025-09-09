@@ -1,10 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">Meu nome é Fernando de Oliveira Rena e sou desenvolvedor focado em automação e web, de MG, Brasil.</p>
-
-###
 
 <h2 align="left">About me</h2>
 
