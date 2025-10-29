@@ -8,13 +8,6 @@
 
 ###
 
-<h2 align="left">Languages</h2>
-
-###
-
-<p align="left"><br>- ✨ Criando bots e web scrapers com Python/Selenium.<br>- 📚 Atualmente estudando TypeScript, Next.js e Flutter.<br>- 🎯 Metas: entregar automações úteis e interfaces limpas.</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
